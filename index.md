@@ -242,13 +242,8 @@ body {
 	
 <body>
 	
-				<img src="https://user-images.githubusercontent.com/36090272/35768101-57c18b06-093a-11e8-8c6c-023425a8cd5f.jpg" class="img100" />
-				<img src="https://user-images.githubusercontent.com/36090272/35768102-57e7cadc-093a-11e8-9b6d-aa6787cf3516.jpg" class="img100" />
-				<img src="https://user-images.githubusercontent.com/36090272/35768103-580e0d5a-093a-11e8-87ec-3feba4ac375c.jpg" class="img100" />
-				<img src="https://user-images.githubusercontent.com/36090272/35768104-5835c2e6-093a-11e8-8ea5-e32247b0778d.jpg" class="img100" />
-				<img src="https://user-images.githubusercontent.com/36090272/35768105-585cf776-093a-11e8-8e6a-bb2aed831530.jpg" class="img100" />
-				<img src="https://user-images.githubusercontent.com/36090272/35768106-58a6d81e-093a-11e8-9843-d4b94c386ccb.jpg" class="img100" />
-				<img src="https://user-images.githubusercontent.com/36090272/35768107-58cc25b0-093a-11e8-98b8-969c0164de78.jpg" class="img100" />
+				<img src="https://user-images.githubusercontent.com/36078887/35775998-5705a9ca-09d7-11e8-943a-38fc0045b4ae.jpg" class="img100" />
+				
 			</div>
 		</div>
 </body>
