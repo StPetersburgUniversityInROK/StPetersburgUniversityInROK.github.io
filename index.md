@@ -216,7 +216,7 @@ body {
 		<div class="contact_wrap">
 		</div>
 		<div class="date_wrap">
-			<span><img src="https://cdn2.iconfinder.com/data/icons/office-38/24/office-40-128.png" alt="time" />일시 : <strong>2018년 02월 17일 오후 7시30분</strong></span>
+			<span><img src="https://cdn2.iconfinder.com/data/icons/office-38/24/office-40-128.png" alt="time" />일시 : <strong>2018년 02월 12일 오후 7시30분</strong></span>
 		</div>
 		<div class="addr_wrap">
 			<span><img src="https://cdn4.iconfinder.com/data/icons/miu/24/house-home-real_estate-property-glyph-128.png" alt="place" />장소 : <strong>케이터틀(구.거구장)</strong> | 서울특별시 마포구 백범로23(신수동63-14)</span>
