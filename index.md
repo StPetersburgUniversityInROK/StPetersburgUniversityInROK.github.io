@@ -226,7 +226,7 @@ body {
 		<div class="tras_wrap">
 			<div>
 				<div class="what"><img src="https://cdn2.iconfinder.com/data/icons/vehicles-7/24/vehicles-04-128.png" alt="metro" />지하철</div>
-				<div class="is">2호선 신촌역 6번출구 서강대방면 150m</div>
+				<div class="is">2호선 신촌역 6번출구 서강대방면 200m</div>
 				<div class="is">경의중앙선 서강대역 1번 출구 서강대방면 200m</div>
 				<div class="is">6호선 대흥역 1번 출구 서강대방면 600m</div>
 			</div>
