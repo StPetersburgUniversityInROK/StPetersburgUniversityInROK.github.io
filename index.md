@@ -240,61 +240,16 @@ body {
 		</div>
 	</div>
 	
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
-	<script src="https://maps.googleapis.com/maps/api/js?signed_in=true"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.js"></script>
-	<script>
-	var latlng = "37.552667, 126.937801"; //구글맵에서 위치 검색 후, 맵을 클릭하면 나오는 하단의 좌표를 입력한다.
-
-	function initMap() {
-		if (latlng.length <= 0)
-			return false;
-		arr = latlng.split(",");
-		if (arr.length <= 1)
-			return false;
-
-		var myLatLng = {
-			lat : parseFloat($.trim(arr[0])),
-			lng : parseFloat($.trim(arr[1]))
-		};
-		var map = new google.maps.Map(document.getElementById('map'), {
-			zoom : 17,
-			center : myLatLng
-		});
-		var arr = [];
-
-		new google.maps.Marker({
-			position : myLatLng,
-			map : map
-		});
-	}
-	$(function(e) {
-		initMap();
-		
-		var targetEle = $("#autoplay");
-		targetEle.find("img").css("cssText" , "width:" + targetEle.width() + "px !important;");
-		targetEle.slick({
-			slidesToShow : 1,
-			slidesToScroll : 1,
-			autoplay : true,
-			autoplaySpeed : 2000,
-			dots: false,
-		  	infinite: true,
-		  	variableWidth: true
-		});
-		targetEle.css({"display" : "block"});
-		var tmpHeight = 0;
-		targetEle.find("img").first().load(function(e) {
-			targetEle.find("img").each(function(k, v) {
-				var _this = $(this);
-				if( tmpHeight == 0 || tmpHeight > _this.height() ) {
-					tmpHeight = _this.height();
-				}
-			});
-			$(".slide_wrap").height(tmpHeight);
-		});
-	});
+<body>
 	
-	</script>
+				<img src="https://user-images.githubusercontent.com/36090272/35768101-57c18b06-093a-11e8-8c6c-023425a8cd5f.jpg" class="img100" />
+				<img src="https://user-images.githubusercontent.com/36090272/35768102-57e7cadc-093a-11e8-9b6d-aa6787cf3516.jpg" class="img100" />
+				<img src="https://user-images.githubusercontent.com/36090272/35768103-580e0d5a-093a-11e8-87ec-3feba4ac375c.jpg" class="img100" />
+				<img src="https://user-images.githubusercontent.com/36090272/35768104-5835c2e6-093a-11e8-8ea5-e32247b0778d.jpg" class="img100" />
+				<img src="https://user-images.githubusercontent.com/36090272/35768105-585cf776-093a-11e8-8e6a-bb2aed831530.jpg" class="img100" />
+				<img src="https://user-images.githubusercontent.com/36090272/35768106-58a6d81e-093a-11e8-9843-d4b94c386ccb.jpg" class="img100" />
+				<img src="https://user-images.githubusercontent.com/36090272/35768107-58cc25b0-093a-11e8-98b8-969c0164de78.jpg" class="img100" />
+			</div>
+		</div>
 </body>
 </html>
