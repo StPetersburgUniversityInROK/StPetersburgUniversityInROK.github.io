@@ -240,10 +240,61 @@ body {
 		</div>
 	</div>
 	
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+	<script src="https://maps.googleapis.com/maps/api/js?signed_in=true"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.js"></script>
+	<script>
+	var latlng = "37.378100, 127.112298"; //구글맵에서 위치 검색 후, 맵을 클릭하면 나오는 하단의 좌표를 입력한다.
 
-				<img src="https://user-images.githubusercontent.com/36078887/35775998-5705a9ca-09d7-11e8-943a-38fc0045b4ae.jpg" class="img100" />
-				
-			</div>
-		</div>
+	function initMap() {
+		if (latlng.length <= 0)
+			return false;
+		arr = latlng.split(",");
+		if (arr.length <= 1)
+			return false;
+
+		var myLatLng = {
+			lat : parseFloat($.trim(arr[0])),
+			lng : parseFloat($.trim(arr[1]))
+		};
+		var map = new google.maps.Map(document.getElementById('map'), {
+			zoom : 17,
+			center : myLatLng
+		});
+		var arr = [];
+
+		new google.maps.Marker({
+			position : myLatLng,
+			map : map
+		});
+	}
+	$(function(e) {
+		initMap();
+		
+		var targetEle = $("#autoplay");
+		targetEle.find("img").css("cssText" , "width:" + targetEle.width() + "px !important;");
+		targetEle.slick({
+			slidesToShow : 1,
+			slidesToScroll : 1,
+			autoplay : true,
+			autoplaySpeed : 2000,
+			dots: false,
+		  	infinite: true,
+		  	variableWidth: true
+		});
+		targetEle.css({"display" : "block"});
+		var tmpHeight = 0;
+		targetEle.find("img").first().load(function(e) {
+			targetEle.find("img").each(function(k, v) {
+				var _this = $(this);
+				if( tmpHeight == 0 || tmpHeight > _this.height() ) {
+					tmpHeight = _this.height();
+				}
+			});
+			$(".slide_wrap").height(tmpHeight);
+		});
+	});
+	
+	</script>
 </body>
 </html>
