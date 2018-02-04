@@ -8,7 +8,7 @@
 
 <meta property="og:site_name" content="СПБГУ" />
 <meta property="og:title" content="СПБГУ 대한민국 총동문회" />
-<meta property="og:description" content="СПБГУ 대한민국 총동문회 창립식에 " />
+<meta property="og:description" content="СПБГУ 총동문회 창립 총회  " />
 <meta property="og:image" content="https://user-images.githubusercontent.com/36090272/35768103-580e0d5a-093a-11e8-87ec-3feba4ac375c.jpg" />
 <meta property="og:image" content="https://user-images.githubusercontent.com/36090272/35768101-57c18b06-093a-11e8-8c6c-023425a8cd5f.jpg" />
 <meta property="og:type" content="website" />
@@ -202,10 +202,16 @@ body {
 		</div>
 		<div class="content_wrap">
 			<h1><img src="https://user-images.githubusercontent.com/36090272/35768100-579b086e-093a-11e8-9773-4fcc83fb9ba4.png"/>СПбГУ 대한민국 총동문회 창립 총회<img src="https://user-images.githubusercontent.com/36090272/35768100-579b086e-093a-11e8-9773-4fcc83fb9ba4.png"/></h1>
-			친애하는 СПбГУ 동문여러분! <br />
-			이번에 공식 출범하는 СПбГУ 대한민국 총동문회장을 맡은 박종수입니다<br />
-			СПбГУ 졸업생들의 커뮤니케이션 및 모교와 개인의 발전을 위해 출범하는 СПбГУ 총동문회 총회에 <br />
-			동문 여러분의 많은 참석바랍니다 <br />
+			사랑하는СПбГУ동문여러분! <br />
+			러시아발 혹한이 입춘까지 계속되는군요. 모두 건강하시지요?<br />
+			"국적은 바꿀 수 있어도 학적은 못바꾼다"고 합니다. <br />
+			СПб시절의 추억을 회고하고 동문들간 유대를 강화하기 위해 СПбГУ 대한민국 동문회를 출범시키고자 합니다 <br />
+			바쁘시더라도 동문들의 많은 동참을 권면드립니다<br />
+			
+			2017.2.4. <br />
+			동문회결성추진위원회일동<br />
+			(공현배 김진규 남혜현 박종수 성원용 유제현 이대식 이제우 함영준:가나다순)<br />
+			
 		</div>
 		<div class="contact_wrap">
 		</div>
