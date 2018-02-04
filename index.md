@@ -201,12 +201,12 @@ body {
 			</div>
 		</div>
 		<div class="content_wrap">
-			<h1><img src="https://user-images.githubusercontent.com/36090272/35768100-579b086e-093a-11e8-9773-4fcc83fb9ba4.png"/>СПбГУ 대한민국 총동문회 창립 총회<img src="https://user-images.githubusercontent.com/36090272/35768100-579b086e-093a-11e8-9773-4fcc83fb9ba4.png"/></h1>
+			<h1><img src="https://user-images.githubusercontent.com/36090272/35768100-579b086e-093a-11e8-9773-4fcc83fb9ba4.png"/>СПбГУ 한국동문회 창립 총회<img src="https://user-images.githubusercontent.com/36090272/35768100-579b086e-093a-11e8-9773-4fcc83fb9ba4.png"/></h1>
 사랑하는СПбГУ동문여러분! <br />
 러시아발 혹한이 입춘까지 계속되는군요. 모두 건강하시지요?<br />
 "국적은 바꿀 수 있어도 학적은 못바꾼다"고 합니다. <br />
 СПб시절의 추억을 회고하고 동문들간 유대를 강화하기 위해 <br />
-СПбГУ  동문회를 출범시키고자 합니다 <br />
+СПбГУ 한국동문회를 출범시키고자 합니다 <br />
 바쁘시더라도 동문들의 많은 동참을 바랍니다<br />
 			
 2017.2.4.(월) <br />
@@ -216,7 +216,7 @@ body {
 		<div class="contact_wrap">
 		</div>
 		<div class="date_wrap">
-			<span><img src="https://cdn2.iconfinder.com/data/icons/office-38/24/office-40-128.png" alt="time" />일시 : <strong>2018년 02월 12일 오후 7시30분</strong></span>
+			<span><img src="https://cdn2.iconfinder.com/data/icons/office-38/24/office-40-128.png" alt="time" />일시 : <strong>2018년 02월 12일() 오후 7시30분</strong></span>
 		</div>
 		<div class="addr_wrap">
 			<span><img src="https://cdn4.iconfinder.com/data/icons/miu/24/house-home-real_estate-property-glyph-128.png" alt="place" />장소 : <strong>케이터틀(구.거구장)</strong> | 서울특별시 마포구 백범로23(신수동63-14)</span>
@@ -237,7 +237,7 @@ body {
 			</div>
 		</div>
 		<div class="copy">
-			© Copyright 2018, СПБГУ 대한민국 총동문회
+			© Copyright 2018, СПБГУ 한국동문회
 		</div>
 	</div>
 	
