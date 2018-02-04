@@ -240,8 +240,7 @@ body {
 		</div>
 	</div>
 	
-<body>
-	
+
 				<img src="https://user-images.githubusercontent.com/36078887/35775998-5705a9ca-09d7-11e8-943a-38fc0045b4ae.jpg" class="img100" />
 				
 			</div>
