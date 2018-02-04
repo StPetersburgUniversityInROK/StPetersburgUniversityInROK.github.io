@@ -222,7 +222,7 @@ body {
 			<span><img src="https://cdn4.iconfinder.com/data/icons/miu/24/house-home-real_estate-property-glyph-128.png" alt="place" />장소 : <strong>케이터틀(구.거구장)</strong> | 서울특별시 마포구 백범로23(신수동63-14)</span>
 		</div>
 		<div class="map" id="map"></div>
-				<img src="images/거구장.jpg" class="img100" />
+				<img src="https://user-images.githubusercontent.com/36078887/35775998-5705a9ca-09d7-11e8-943a-38fc0045b4ae.jpg" class="img100" />
 		<div class="tras_wrap">
 			<div>
 				<div class="what"><img src="https://cdn2.iconfinder.com/data/icons/vehicles-7/24/vehicles-04-128.png" alt="metro" />지하철</div>
