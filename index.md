@@ -7,8 +7,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=yes" />
 
 <meta property="og:site_name" content="СПБГУ" />
-<meta property="og:title" content="СПБГУ 대한민국 총동문회" />
-<meta property="og:description" content="СПБГУ 총동문회 창립 총회  " />
+<meta property="og:title" content="СПБГУ 한국동문회" />
+<meta property="og:description" content="СПБГУ 한국동문회 창립총회 초대장 " />
 <meta property="og:image" content="https://user-images.githubusercontent.com/36090272/35768103-580e0d5a-093a-11e8-87ec-3feba4ac375c.jpg" />
 <meta property="og:image" content="https://user-images.githubusercontent.com/36090272/35768101-57c18b06-093a-11e8-8c6c-023425a8cd5f.jpg" />
 <meta property="og:type" content="website" />
@@ -206,10 +206,10 @@ body {
 러시아발 혹한이 입춘까지 계속되는군요. 모두 건강하시지요?<br />
 "국적은 바꿀 수 있어도 학적은 못바꾼다"고 합니다. <br />
 СПб시절의 추억을 회고하고 동문들간 유대를 강화하기 위해 <br />
-СПбГУ 대한민국 동문회를 출범시키고자 합니다 <br />
+СПбГУ  동문회를 출범시키고자 합니다 <br />
 바쁘시더라도 동문들의 많은 동참을 권면드립니다<br />
 			
-2017.2.4. <br />
+2017.2.4.(월) <br />
 동문회결성 추진위원회(공현배 김진규 남혜현 박종수 성원용 유제현 이대식 이제우 함영준:가나다순) 일동<br />
 			
 		</div>
