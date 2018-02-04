@@ -239,6 +239,7 @@ body {
 			© Copyright 2018, СПБГУ 대한민국 총동문회
 		</div>
 	</div>
+	
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 	<script src="https://maps.googleapis.com/maps/api/js?signed_in=true"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.js"></script>
@@ -283,13 +284,15 @@ body {
 		});
 		targetEle.css({"display" : "block"});
 		var tmpHeight = 0;
-		targetEle.find("img").each(function(k, v) {
-			var _this = $(this);
-			if( tmpHeight == 0 || tmpHeight > _this.height() ) {
-				tmpHeight = _this.height();
-			}
+		targetEle.find("img").first().load(function(e) {
+			targetEle.find("img").each(function(k, v) {
+				var _this = $(this);
+				if( tmpHeight == 0 || tmpHeight > _this.height() ) {
+					tmpHeight = _this.height();
+				}
+			});
+			$(".slide_wrap").height(tmpHeight);
 		});
-		$(".slide_wrap").height(tmpHeight);
 	});
 	
 	</script>
